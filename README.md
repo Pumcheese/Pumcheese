@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="#proyectos">Proyectos</a> &nbsp; / &nbsp;
-  <a href="#tecnologías">Tecnologías</a> &nbsp; / &nbsp;
-  <a href="https://next-gen-api-one.vercel.app/es/">Demo de NextGen</a>
+  <a href="#proyectos"><img src="./assets/nav-projects.svg" alt="Explorar proyectos — NextGen y Mini SOC" width="250" /></a>
+  <a href="#tecnologías"><img src="./assets/nav-technologies.svg" alt="Ver tecnologías — Stack y herramientas" width="250" /></a>
+  <a href="https://next-gen-api-one.vercel.app/es/"><img src="./assets/nav-demo.svg" alt="Abrir demo de NextGen — Ver la aplicación" width="250" /></a>
 </p>
 
 ### Sobre mí
